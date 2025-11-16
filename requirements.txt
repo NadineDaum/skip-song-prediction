@@ -7,5 +7,13 @@ seaborn
 jupyter
 black
 flake8
-
+torch
+torchvision
+torchaudio
 plotly==6.4.0
+pyarrow
+sklearn
+streamlit
+
+
+

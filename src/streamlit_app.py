@@ -8,7 +8,7 @@ st.set_page_config(page_title="Skip Behavior Dashboard", layout="wide")
 # Load data
 df = pd.read_csv("data/synthetic_sessions.csv")
 
-# 🔥 CLEAN CATEGORIES BEFORE USING THEM IN FILTERS
+# CLEAN CATEGORIES BEFORE USING THEM IN FILTERS
 df["country"]       = df["country"].astype(str)
 df["platform"]      = df["platform"].astype(str)
 df["subscription"]  = df["subscription"].astype(str)
