@@ -12,7 +12,6 @@ torchvision
 torchaudio
 plotly==6.4.0
 pyarrow
-sklearn
 streamlit
 
 
