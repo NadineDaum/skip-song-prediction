@@ -1,0 +1,11 @@
+numpy
+pandas
+duckdb
+scikit-learn
+matplotlib
+seaborn
+jupyter
+black
+flake8
+
+plotly==6.4.0
