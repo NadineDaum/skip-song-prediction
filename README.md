@@ -1,6 +1,6 @@
 # Skip Song Prediction ML Model
 
-This project implements an end-to-end workflow to predict whether a user will skip a song within a music-streaming session. It combines SQL-based feature engineering with baseline machine-learning models. The aim is clarity, transparency & a realistic small-scale workflow. Nothing over-engineered, but grounded in applied ML practice.
+This project implements an end-to-end workflow to predict whether a user will skip a song within a music-streaming session. It combines SQL-based feature engineering with baseline machine-learning models. The aim is clarity, transparency & a realistic small-scale workflow.
 
 ## Overview
 Skip prediction is an essential behavioral signal in music-streaming recommendation systems. Predicting which songs users are likely to skip enables more accurate ranking models, better session sequencing, and more responsive personalization strategies.
@@ -16,4 +16,4 @@ This repo provides a reproducible & lightweight pipeline including:
 
 The dataset is derived from the **Song Skipping Challenge 2025**[(Kaggle)](https://www.kaggle.com/competitions/song-skipping-challenge-2025/data).
 
-Developed by **Nadine Daum** as part of my data scientist portfolio (focus here on SQL + ML).
+Developed by **Nadine Daum** as part of my data scientist portfolio (focus on SQL + ML).
